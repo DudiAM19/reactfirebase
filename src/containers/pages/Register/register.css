@@ -1,0 +1,27 @@
+@media (min-width: 576px) { 
+    .container{
+        width: 500px;
+        margin-left: 300px;
+        box-shadow: 2px 5px 5px 5px silver;
+        border: 1px solid silver;
+        margin-top: 40px;
+        border-radius: 20px;
+    }
+    .p {
+        /* text-align: center; */
+        /* margin-top: 70px; */
+        margin-top: 50px;
+        margin-left: 50px;
+        color: #007cc9;
+    }
+    .form-group {
+        width: 400px;
+        margin: 50px;
+    }
+    button {
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+ }
+
+
